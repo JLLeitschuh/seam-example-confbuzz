@@ -23,7 +23,7 @@
         <arquillian.jbossas7.version>7.0.0.Final</arquillian.jbossas7.version>
         <richfaces.version>4.1.0.Final</richfaces.version>
         <prettyfaces.version>3.3.0</prettyfaces.version>
-        <junit.version>4.8.2</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <jbossas.7.version>7.0.2.Final</jbossas.7.version>
     </properties>
